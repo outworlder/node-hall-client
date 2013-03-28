@@ -1,0 +1,36 @@
+{
+  "name": "hall",
+  "version": "0.0.0",
+  "description": "Hall API client library for node.js",
+  "keywords": [
+    "hall"
+  ],
+  "author": {
+    "name": "Ron Adams",
+    "email": "ron@hall-inc.com"
+  },
+  "bugs": {
+    "url": "http://github.com/hall/node-hall"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "http://github.com/hall/node-hall.git"
+    }
+  ],
+  "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "socket.io-client": "0.9.10",
+	"underscore" : "1.4.4",
+	"backbone" : "1.0.0"
+  }
+}
