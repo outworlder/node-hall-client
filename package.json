@@ -31,6 +31,7 @@
   "dependencies": {
     "socket.io-client": "0.9.10",
 	"underscore" : "1.4.4",
-	"backbone" : "1.0.0"
+	"backbone" : "1.0.0",
+    "request": "2.12.0"
   }
 }
