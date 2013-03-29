@@ -1,16 +1,20 @@
 {
-  "name": "hall",
+  "name": "hall-client",
   "version": "0.0.0",
   "description": "Hall API client library for node.js",
   "keywords": [
-    "hall"
+    "hall",
+	"client",
+	"realtime",
+	"api",
+	"streaming"
   ],
   "author": {
     "name": "Ron Adams",
     "email": "ron@hall-inc.com"
   },
   "bugs": {
-    "url": "http://github.com/hall/node-hall"
+    "url": "http://github.com/hall/node-hall-client"
   },
   "licenses": [
     {
@@ -21,7 +25,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "http://github.com/hall/node-hall.git"
+      "url": "http://github.com/hall/node-hall-client.git"
     }
   ],
   "main": "index",
