@@ -22,7 +22,7 @@
       "url": "http://opensource.org/licenses/mit-license.php"
     }
   ],
-  "repositories": [
+  "repository": [
     {
       "type": "git",
       "url": "http://github.com/hall/node-hall-client.git"
