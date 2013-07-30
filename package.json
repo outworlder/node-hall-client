@@ -22,12 +22,10 @@
       "url": "http://opensource.org/licenses/mit-license.php"
     }
   ],
-  "repository": [
-    {
-      "type": "git",
-      "url": "http://github.com/hall/node-hall-client.git"
-    }
-  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hall/node-hall-client.git"
+  },
   "main": "index",
   "directories": {
     "lib": "./lib"
