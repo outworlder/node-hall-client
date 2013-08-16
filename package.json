@@ -36,8 +36,5 @@
     "request" : "2.23.0",
     "websocket" : "1.0.8",
     "debug" : "latest"
-  },
-  "engines": {
-    "node": ">= 0.8.x < 0.9.0"
   }
 }
