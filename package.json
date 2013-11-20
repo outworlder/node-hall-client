@@ -31,7 +31,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "underscore" : "1.4.4",
+    "underscore" : ">= 1.4.4",
     "backbone" : "1.0.0",
     "request" : "2.23.0",
     "websocket" : "1.0.8",
